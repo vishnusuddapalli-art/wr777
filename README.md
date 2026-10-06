@@ -1,7 +1,12 @@
-# Wr777 Demo v1.1
-A realistic-looking demo/simulation APK. It has no UPI, bank, payment gateway, cash-out, or real-money wagering.
+# Wr777 Demo Website
 
-Demo login: enter any 10-digit phone number, then use OTP `123456`.
-A unique Wr777 ID is generated from the phone number.
+Mobile-first demo website/PWA.
 
-Open the folder in Android Studio and Build > Build APK(s).
+- Demo OTP: `123456`
+- Automatically creates a demo Wr777 ID and player name
+- Virtual coins only
+- Demo games included
+- Admin demo button adds 10,000 virtual coins
+- No UPI, bank integration, payment gateway, or cash withdrawal
+
+You can upload these files to a GitHub repository and publish them with GitHub Pages.
